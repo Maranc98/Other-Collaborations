@@ -1,4 +1,4 @@
-# Other-Collaborations
+# Other Collaborations
 A list of other projects that I have worked on.
 
 Noise Boosted Receptive Fields: https://github.com/galatolofederico/noise-boosted-receptive-fields
